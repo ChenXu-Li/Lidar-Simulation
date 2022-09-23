@@ -1,0 +1,4 @@
+repository "car@ssl://wechat_os_qy0x1ohsrxaprazxyvx4ruuki@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/316469360" 
+     
